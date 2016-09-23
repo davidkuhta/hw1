@@ -58,11 +58,9 @@ specified above.
 # 2. (5 points) More Database Design
 
 
-Go to [reddit.com](http://www.reddit.com) and analyze the front page and comments (each line has an `XXX comments` link)
-pages to understand its data requirements.  Then, 
-
-* design an E-R diagram for the website that captures its main functionality of posts, and comments.
+Visit the issues page of any public repository on Github, For Example [Link-to-Example](https://github.com/tensorflow/tensorflow/issues) and analyze the page and the linked issue pages to understand its data requirements. 
+Then, 
+* design an E-R diagram for the website that captures its main functionality of issues, and comments.
 * Include at least 4 entities, 4 relationships, and 3 constraints, in the same format as part 1 of this homework.
-  * 2 of the entities should be **posts** and **comments**.  You are free to choose the other two.
-* For each entity, relationship and constraint, include a 1-2 sentence description that justifies your decision to
-  include it and design it in the matter that you did.
+* 2 of the entities should be **Issues** and **comments**.  You are free to choose the other two.
+* For each entity, relationship and constraint, include a 1-2 sentence description that justifies your decision to include it and design it in the matter that you did.
