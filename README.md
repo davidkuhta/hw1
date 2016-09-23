@@ -57,9 +57,9 @@ specified above.
 
 # 2. (5 points) More Database Design
 
-GitHub is a web based Git repository hosting service that provides version control and source code management functionality. It provides several collaboarative features like bug tracking, task management, contribution analytics for every project. Handling big code-bases and with multiple people working on them, indeed becomes a tedious task, GitHub helps to make this exercise easier. Issues are kind of like shared e-mails, and a great way to keep track of tasks, enhancements, and bugs for the projects. GitHub’s tracker is called Issues, and has its own section in every repository. You may learn more about github issues at [Reference](https://guides.github.com/features/issues/) 
+GitHub is a web based Git repository hosting service that provides version control and source code management functionality. It provides several collaboarative features like bug tracking, task management, contribution analytics for every project. Handling big code-bases and with multiple people working on them, indeed becomes a tedious task, GitHub helps to make this exercise easier. Issues are kind of like shared e-mails, and a great way to keep track of tasks, enhancements, and bugs for the projects. GitHub’s tracker is called Issues, and has its own section in every repository. You may learn more about github issues at [Github-Issues](https://guides.github.com/features/issues/) 
 
-Visit the issues page of any public repository on Github, [For Example](https://github.com/tensorflow/tensorflow/issues). Analyze the page and the linked issue pages to understand its data requirements. 
+Visit the issues page of any public repository on Github, For example visit [Tensorflow-Issues](https://github.com/tensorflow/tensorflow/issues). Analyze the page and the linked issue pages to understand its data requirements. 
 Then, 
 * design an E-R diagram for the website that captures its main functionality of issues, and comments.
 * Include at least 4 entities, 4 relationships, and 3 constraints, in the same format as part 1 of this homework.
