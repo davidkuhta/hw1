@@ -58,7 +58,7 @@ specified above.
 # 2. (5 points) More Database Design
 
 
-Visit the issues page of any public repository on Github, For Example [Link-to-Example](https://github.com/tensorflow/tensorflow/issues) and analyze the page and the linked issue pages to understand its data requirements. 
+Visit the issues page of any public repository on Github, [For Example](https://github.com/tensorflow/tensorflow/issues). Analyze the page and the linked issue pages to understand its data requirements. 
 Then, 
 * design an E-R diagram for the website that captures its main functionality of issues, and comments.
 * Include at least 4 entities, 4 relationships, and 3 constraints, in the same format as part 1 of this homework.
