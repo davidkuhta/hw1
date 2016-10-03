@@ -1,7 +1,7 @@
 # Homework 1
 
 * Assigned: 9/26
-* Due: 10/5 2:30PM in class, hard copy
+* Due: 10/7 2:30PM, place in the box outside of MUDD 421, hard copy
 * Value: 3.75% of your grade
 * Done and submitted individually (as with all the homeworks)
 
