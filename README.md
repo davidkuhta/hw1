@@ -8,9 +8,9 @@
 
 # Solutions
 
-* Q1: [University ER Diagram](./solution-q1-university-er.png)
-* Q1: [University SQL Schema](./solution-q1-university-schema.sql)
-* Q2: [GitHub ER Diagram](./solution-q2-github-er.png)
+* Q1: [University ER Diagram](./solution-q1-university_er.png)
+* Q1: [University SQL Schema](./solution-q1-university_schema.sql)
+* Q2: [GitHub ER Diagram](./solution-q2-github_er.png)
 
 
 # 1. (10 points) Database Design: UniDB
